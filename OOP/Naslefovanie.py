@@ -22,7 +22,7 @@ class Dog(Animals):
         self.breed= breed
         
     def draw(self):
-        return 'Собаки лучшие друзья человекаrrrr'
+        return 'Собаки лучшие друзья человека'
 
 c = Cat("black", 4, 4, 8)
 d = Dog('brown', 3, 4,'Bulldog')
